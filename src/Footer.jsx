@@ -12,7 +12,7 @@ export default function Footer() {
           <h3>Contact Us</h3>
           <p>📍 123 Main Street, Cityville</p>
           <p>📞 +1 234 567 890</p>
-          <p>📧 contact@123.com</p>
+          <p>📧 Gondya's@123.com</p>
         </div>
 
         <div>
